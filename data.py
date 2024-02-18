@@ -20,7 +20,7 @@ question_data = [{"type": "boolean", "difficulty": "medium", "category": "Geogra
                                                    "question": "Liechtenstein does not have an airport.",
                                                    "correct_answer": "True", "incorrect_answers": ["False"]},
                                                   {"type": "boolean", "difficulty": "medium", "category": "Geography",
-                                                   "question": "There exists an island named &quot;Java&quot;.",
+                                                   "question": "There exists an island named Java.",
                                                    "correct_answer": "True", "incorrect_answers": ["False"]},
                                                   {"type": "boolean", "difficulty": "medium", "category": "Geography",
                                                    "question": "Vietnam is the only country in the world that starts with V. ",
